@@ -1,6 +1,6 @@
 # Temperature-Conversion
 
--Covert the Temperature conversion of Fahrenheit to Celsius or  Celsius to Fahrenheit using  HTML ,CSS, JavaScript.
+-Covert the Temperature from Fahrenheit to Celsius or  Celsius to Fahrenheit using  HTML ,CSS, JavaScript.
 -A simple, light and responsive UI
 -Best code practice used
 
